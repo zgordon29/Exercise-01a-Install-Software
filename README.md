@@ -1,12 +1,5 @@
 # Exercise-01a-Install-Software
 
-The repository for this exercise is available at https://github.com/BL-MSCH-C220/Exercise-01a-Install-Software
-
-
-A demonstration of this exercise is available at https://youtu.be/QuEtD6qLWSM (23 minutes)
-
-Exercise-01a-Install-Software
-
 Exercise for MSCH-C220 at Indiana University, Bloomington
 
 The expectations for this exercise are that you will
